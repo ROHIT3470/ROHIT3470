@@ -2,9 +2,9 @@
 
 💻 Computer Science Engineer | Aspiring Cybersecurity Engineer | Full-Stack Developer
 
-I am a Computer Science Engineering student passionate about Cybersecurity, Ethical Hacking, Web Application Security, and Software Development.
+I'm a Computer Science Engineering student passionate about Cybersecurity, Ethical Hacking, Web Application Security, and Software Development.
 
-I enjoy building practical applications, exploring security vulnerabilities in authorized lab environments, and developing technology-driven solutions to real-world problems.
+I enjoy building practical applications, exploring vulnerabilities in authorized security labs, and developing technology-driven solutions to real-world problems.
 
 - 🔐 Exploring Web Application Security and Penetration Testing.
 - 🌐 Practicing hands-on labs on TryHackMe and PortSwigger Web Security Academy.
@@ -17,46 +17,58 @@ I enjoy building practical applications, exploring security vulnerabilities in a
 
 🌐 Connect With Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/ROHIT3470)
-""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://instagram.com/sk_rohit_05_1526)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/)
-""Facebook" (https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" (https://www.facebook.com/)
-""Email" (https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:nagdebashrita400@gmail.com)
-
----
+<p align="left">
+  <a href="https://github.com/ROHIT3470">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/debashrita-nag-1a1670306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/rohit_29_05_01_26/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/share/1DJtqWYcC6/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/@debashritanag-c4e">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>---
 
 💻 Tech Stack
 
 Programming Languages
 
-"C" (https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-"C++" (https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" alt="Programming Languages"/>
+</p>Frontend Development
 
-Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend Technologies"/>
+</p>Backend Development & Database
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,npm" alt="Backend Technologies"/>
+</p>Cybersecurity & Ethical Hacking
 
-Backend Development & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python" alt="Cybersecurity Tools"/>
+</p>Tools & Platforms:
 
-"NodeJS" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-"Express" (https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-"NPM" (https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+- Burp Suite
+- TryHackMe
+- PortSwigger Web Security Academy
+- Kali Linux
+- Linux Terminal
+- Git & GitHub
 
-Cybersecurity & Ethical Hacking
+Data Science & Development Tools
 
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-"Kali Linux" (https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-"Burp Suite" (https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-"TryHackMe" (https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,git,github,vscode,postman" alt="Development Tools"/>
+</p>---
 
-Areas of Interest:
+🔐 Cybersecurity Areas of Interest
 
 - Web Application Penetration Testing
 - OWASP Top 10
@@ -66,13 +78,7 @@ Areas of Interest:
 - Vulnerability Assessment
 - Security Automation
 - Ethical Hacking
-
-Data Science & Development Tools
-
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"Canva" (https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+- Offensive Security
 
 ---
 
@@ -80,7 +86,7 @@ Data Science & Development Tools
 
 🌍 1. HillGuard – AI-Powered Disaster Management
 
-An AI, IoT, and GIS-powered disaster intelligence platform focused on hyper-local disaster monitoring and risk assessment.
+An AI, IoT, and GIS-powered disaster intelligence platform designed for hyper-local disaster monitoring and risk assessment.
 
 Technologies: MERN Stack, React, Node.js, MongoDB, GIS, AI.
 
@@ -134,34 +140,32 @@ Key Features:
 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ROHIT3470&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ROHIT3470&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHIT3470&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ROHIT3470&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHIT3470&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>---
 
 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROHIT3470&theme=tokyonight&no-frame=true&margin-w=5&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ROHIT3470&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
 </p>---
 
 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHIT3470&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHIT3470&theme=tokyo-night&hide_border=true" alt="Contribution Activity"/>
 </p>---
 
-✍️ Random Developer Quote
+✍️ Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>---
 
 👀 Profile Visitors
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ROHIT3470&label=Profile%20Views&color=blueviolet&style=flat-square" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ROHIT3470&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitors"/>
 </p>---
 
 ⚡ My Philosophy
