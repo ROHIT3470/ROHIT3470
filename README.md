@@ -1,6 +1,6 @@
 👋 Hi, I'm Debashrita Nag
 
-💻 Computer Science Engineer | Aspiring Cybersecurity Engineer | Full-Stack Developer
+💻 Computer Science Engineer | Aspiring Cybersecurity Engineer | MERN-Stack Developer
 
 I'm a Computer Science Engineering student passionate about Cybersecurity, Ethical Hacking, Web Application Security, and Software Development.
 
